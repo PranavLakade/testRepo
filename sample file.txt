@@ -1,1 +1,2 @@
-this is sample file to upload in GIT
+this is sample file to upload in GIT.
+Then edited in GIT Remote repository and saved.
